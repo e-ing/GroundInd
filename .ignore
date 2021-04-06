@@ -1,0 +1,9 @@
+*.html
+*.BAK
+*.bak
+*.LOG
+*.log
+/IO/
+__Previews/
+Trash/
+History/
